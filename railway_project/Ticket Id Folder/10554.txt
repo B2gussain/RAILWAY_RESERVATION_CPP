@@ -1,0 +1,11 @@
+Passenger ID: 2223
+Train Number: 234
+Train Name: express
+Boarding Point: mumbai
+Destination Point: panipat
+Ticket Type: First_Class_Ticket
+Ticket Cost: 1000
+Number of Seats Booked : 1
+1Passenger Name :bittu
+1Passenger Age :21
+Total Cost :1500
